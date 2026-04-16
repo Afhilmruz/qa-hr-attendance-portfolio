@@ -29,6 +29,10 @@ This portfolio is designed to reflect real QA workflows used in professional env
 
 ---
 
+## 📊 Manual Testing Files
+
+- Test Case Spreadsheet: [View Spreadsheet](https://docs.google.com/spreadsheets/d/1L0E6bcgY3-w5R6GWpFnvt54qmzkzqbxB6Y3c1PqvplU/edit?usp=sharing)
+
 ## 📁 Repository Structure
 
 ```text
