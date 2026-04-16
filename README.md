@@ -1,57 +1,42 @@
-# QA Portfolio – HR & Attendance Management System
+# QA HR Attendance Portfolio
 
-## Project Overview
-This project is a **QA Engineer portfolio** focused on manual and automation testing for a **web-based HR & Attendance Management System**.  
-The application used in this project is an **HR / Attendance demo web application**, treated as a simulation of a real enterprise system.
+This repository showcases my Quality Assurance portfolio focused on manual testing and automation testing for an HR Attendance System.
 
-The purpose of this portfolio is to demonstrate:
-- QA thinking process
-- Test planning and documentation
-- Manual testing skills
-- Automation testing using Selenium (Java)
-- API testing using Postman
+## 📌 Project Overview
 
-This repository will be developed **incrementally**, following a real QA workflow.
+The objective of this project is to demonstrate end-to-end QA practices including:
 
----
+- Test Planning
+- Test Case Design
+- Test Execution
+- Bug Reporting
+- Test Summary Reporting
+- Automation Testing (upcoming)
 
-## System Description
-The HR & Attendance Management System is a web-based application used to manage employee attendance digitally.  
-It allows employees to record daily attendance and enables administrators to manage users and attendance records.
+This portfolio is designed to reflect real QA workflows used in professional environments.
 
 ---
 
-## User Roles
-- **Admin**
-  - Manage users
-  - View attendance records
-- **Employee**
-  - Login to the system
-  - Perform check-in and check-out
-  - View attendance history
+## 🛠 Tools & Technologies
+
+- Manual Testing
+- Google Spreadsheet / Excel
+- GitHub
+- Java
+- Selenium WebDriver *(upcoming)*
+- TestNG *(upcoming)*
+- Postman *(upcoming)*
 
 ---
 
-## Features (High-Level)
-- Login & Authentication
-- Attendance Check-in
-- Attendance Check-out
-- Attendance History
-- Leave Request (Simulation)
+## 📁 Repository Structure
 
----
-
-## Testing Scope
-Detailed testing scope will be documented in the **Test Plan**.
-
----
-
-## Tools & Technologies
-- Manual Testing (Web)
-- Selenium WebDriver (Java)
-- Postman (API Testing)
-- Git & GitHub
-
----
-
-## Repository Structure (Planned)
+```text
+qa-hr-attendance-portfolio
+│
+├── README.md
+│
+└── manual-testing
+    ├── test-plan.md
+    ├── bug-report
+    │   └── bug_report.md
